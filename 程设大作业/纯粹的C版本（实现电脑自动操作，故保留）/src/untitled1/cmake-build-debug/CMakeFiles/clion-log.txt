@@ -1,0 +1,4 @@
+"D:\useful softwares\CLion-2022.2.4.win\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/useful softwares/CLion-2022.2.4.win/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Lenovo\Desktop\untitled1 -B C:\Users\Lenovo\Desktop\untitled1\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Lenovo/Desktop/untitled1/cmake-build-debug
