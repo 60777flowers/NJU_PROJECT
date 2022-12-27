@@ -1,6 +1,0 @@
-set(CMAKE_RC_COMPILER "D:/useful softwares/CLion-2022.2.4.win/bin/mingw/bin/windres.exe")
-set(CMAKE_RC_COMPILER_ARG1 "")
-set(CMAKE_RC_COMPILER_LOADED 1)
-set(CMAKE_RC_SOURCE_FILE_EXTENSIONS rc;RC)
-set(CMAKE_RC_OUTPUT_EXTENSION .obj)
-set(CMAKE_RC_COMPILER_ENV_VAR "RC")
